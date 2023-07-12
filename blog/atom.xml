@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://andrecaiado.github.io/tfb-documentation/blog</id>
-    <title>The Family Book documentation Blog</title>
+    <title>The Family Book project documentation Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://andrecaiado.github.io/tfb-documentation/blog"/>
-    <subtitle>The Family Book documentation Blog</subtitle>
+    <subtitle>The Family Book project documentation Blog</subtitle>
     <icon>https://andrecaiado.github.io/tfb-documentation/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
