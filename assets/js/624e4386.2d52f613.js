@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktfb_documentation=self.webpackChunktfb_documentation||[]).push([[7302],{3239:t=>{t.exports=JSON.parse('{"label":"docusaurus","permalink":"/tfb-documentation/blog/tags/docusaurus","allTagsPath":"/tfb-documentation/blog/tags","count":4}')}}]);

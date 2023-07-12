@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktfb_documentation=self.webpackChunktfb_documentation||[]).push([[1448],{2490:t=>{t.exports=JSON.parse('{"permalink":"/tfb-documentation/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
