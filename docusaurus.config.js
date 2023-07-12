@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'The Family Book documentation',
+  title: 'The Family Book project documentation',
   tagline: 'Know your family',
   favicon: 'img/favicon.ico',
 
